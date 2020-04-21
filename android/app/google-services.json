@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "182351145801",
+    "firebase_url": "https://livescore-d0471.firebaseio.com",
+    "project_id": "livescore-d0471",
+    "storage_bucket": "livescore-d0471.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182351145801:android:4e81f2b365aab9c2710898",
+        "android_client_info": {
+          "package_name": "com.example.livescore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182351145801-k6ju124r92i000kpplnhhjqa7arbns4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk8WZJBfhmX3Ldk1_qrp0cAmzqEu5iysk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182351145801-k6ju124r92i000kpplnhhjqa7arbns4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
